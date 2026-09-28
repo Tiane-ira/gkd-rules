@@ -1,11 +1,7 @@
 ## 订阅地址
 
-```txt
-https://raw.githubusercontent.com/Tiane-ira/gkd-rules/main/dist/gkd.json5
 ```
-
-```
-https://fastly.jsdelivr.net/gh/Tiane-ira/gkd-rules@main/dist/gkd.json5
+https://fastly.jsdelivr.net/gh/Tiane-ira/gkd-rules@latest/dist/gkd.json5
 ```
 
 ## 配置环境
